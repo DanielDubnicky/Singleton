@@ -1,0 +1,15 @@
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\DanielDubnický\Documents\GitHub\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
